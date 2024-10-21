@@ -1,5 +1,7 @@
 # R 語言筆記
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## 1.2 基本變數
 - 宣告變數
     ```R
